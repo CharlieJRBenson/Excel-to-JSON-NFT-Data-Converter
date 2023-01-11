@@ -1,0 +1,40 @@
+{
+  "name": "My NFT Collection #2",
+  "description": "My NFT Collection's Short Description",
+  "image": "ipfs://Project Image folder CID Here/2.png",
+  "date": 1673457210481,
+  "attributes": [
+    {
+      "trait_type": "NFT #",
+      "value": 2
+    },
+    {
+      "trait_type": "Trait 1",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Trait 2",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Trait 3",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Trait 4",
+      "value": "Coat"
+    },
+    {
+      "trait_type": "Trait 5",
+      "value": "No"
+    },
+    {
+      "trait_type": "Trait 6",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "artist",
+      "value": "Pablo Picasso"
+    }
+  ]
+}
